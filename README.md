@@ -1,8 +1,7 @@
 # Parallel-Concurrent-and-Distributed-Programming-in-Java
 
 <p align="center">
-  <img src="https://github.com/ashishgopalhattimare/Parallel-Concurrent-and-Distributed-Programming-in-Java/blob/master/certificate/NDV8ZGXD45BP.png
-" width="30%">
+  <img src="https://github.com/ashishgopalhattimare/Parallel-Concurrent-and-Distributed-Programming-in-Java/blob/master/certificate/NDV8ZGXD45BP.png" width="50%">
 </p>
 <p align="center"> <i>Parallel Concurrent and Distributed Programming in Java | Coursera Certification</i> </p>
 ---
